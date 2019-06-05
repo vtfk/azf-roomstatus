@@ -8,7 +8,7 @@
     "@vtfk/azure-storage-blob": "^1.0.3",
     "@vtfk/logger": "^1.0.3",
     "axios": "^0.19.0",
-    "mongojs": "^2.6.0"
+    "mongoist": "^2.0.0"
   },
   "devDependencies": {
     "standard": "^12.0.1"
